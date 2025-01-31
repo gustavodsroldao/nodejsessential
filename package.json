@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gustavodsroldao/nodejsfsc/issues"
   },
-  "homepage": "https://github.com/gustavodsroldao/nodejsfsc#readme"
+  "homepage": "https://github.com/gustavodsroldao/nodejsfsc#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
 }
